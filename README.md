@@ -1,7 +1,5 @@
 # macros
-Here is small, but I believe useful *(at least useful to me)* collection of scripts. 
-I am not a programmer by trade, but have enough skills to hack together scripts. 
-My hacking scripts, or bodging, instpiration is as follows below. 
+Here is small, but I believe useful *(at least useful to me)* collection of scripts. I am not a programmer by trade, but have enough skills to hack together scripts. My hacking scripts, or bodging, inspiration is as follows below.   
 
 **Macro Languages Used:**  
 AutoHotKey - https://autohotkey.com/  
