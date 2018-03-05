@@ -8,9 +8,6 @@ I now use the Elgato Stream Deck which work great on Windows 10. In addition the
 
 Here is small, but I believe useful (at least useful to me) collection of scripts. I am not a programmer by trade, but have enough skills to hack together scripts. My hacking scripts, or bodging, inspiration is as follows below. I am aware that AutoHotKey is a bit dated, but it works for me. I might get around to updating it to AutoIt at a later date. 
 
-**Hardware Used:**
-Stream Deck https://www.elgato.com/en/gaming/stream-deck
-
 **Macro Languages Used:**  
 AutoHotKey - https://autohotkey.com/  
 AutoIt - https://www.autoitscript.com/site/autoit/  
@@ -19,3 +16,8 @@ AutoIt - https://www.autoitscript.com/site/autoit/
 The Art of the Bodge: How I Made The Emoji Keyboard - https://youtu.be/lIFE7h3m40U  
 DIY 87-Key Macro Keyboard - Because he has too many keyboard shortcuts! - https://www.youtube.com/watch?v=Arn8ExQ2Gjg  
 The ULTIMATE Macro Pad? - Elgato Stream Deck Review - https://www.youtube.com/watch?v=vhPLhfP1b_s  
+
+**Hardware Used:**  
+Stream Deck https://www.elgato.com/en/gaming/stream-deck  
+**Example Layout:**  
+![alt text](https://github.com/jtbarrera/macros/blob/master/Stream_Desck_Example.PNG?raw=true "Stream Desk Example")
